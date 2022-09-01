@@ -9,6 +9,6 @@ https://github.com/pangenome/pggb
 
 ## Index
 
-- wfmash [0.02_GitHub_PGGB_wfmash](0.02_GitHub_PGGB_wfmash.md)
-- seqwish [0.03_GitHub_PGGB_seqwish](0.03_GitHub_PGGB_seqwish.md)
-- smoothxg [0.04_GitHub_PGGB_smoothxg](0.04_GitHub_PGGB_smoothxg.md)
+- [wfmash](0.02_GitHub_PGGB_wfmash.md)
+- [seqwish](0.03_GitHub_PGGB_seqwish.md)
+- [smoothxg](0.04_GitHub_PGGB_smoothxg.md)
