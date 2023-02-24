@@ -31,8 +31,6 @@ comb_name <- gsub(".txt", "", comb_name)
 
 # for modeling
 comb_name <- comb_name[grep("genome_nb2.comb", comb_name)]
-# for final stats
-comb_name <- comb_name[grep("genome_nb9.comb", comb_name)]
 
 for (combx in comb_name){
   
