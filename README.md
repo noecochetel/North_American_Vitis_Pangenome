@@ -9,6 +9,7 @@ https://github.com/pangenome/pggb
 
 ## Index
 
-- [wfmash](0.02_GitHub_PGGB_wfmash.md)
-- [seqwish](0.03_GitHub_PGGB_seqwish.md)
-- [smoothxg](0.04_GitHub_PGGB_smoothxg.md)
+- [Generate the alignments with wfmash](0.02_GitHub_PGGB_wfmash.md)
+- [Construct the pangenome with seqwish](0.03_GitHub_PGGB_seqwish.md)
+- [Polish the pangenome with smoothxg](0.04_GitHub_PGGB_smoothxg.md)
+- [Model the gene pangenome](0.05_GitHub_PGGB_modeling.md)
