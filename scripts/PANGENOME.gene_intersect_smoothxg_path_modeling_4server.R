@@ -450,6 +450,10 @@ avg_tb <- tb2 %>%
   summarise(mean = mean(n_norm), sd = sd(n_norm)) %>%
   ungroup()
 
+# for in-text stats
+avg_tb %>%
+  filter(genome_nb %in% c(8,9))
+
 # plot
 p <- ggplot() +
   geom_point(data = tb2, mapping = aes(x = genome_nb, y = n_norm, color = class), alpha = 0.5, size = 1) +
