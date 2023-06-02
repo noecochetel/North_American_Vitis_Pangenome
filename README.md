@@ -15,3 +15,4 @@ https://github.com/pangenome/pggb
 - [Model the gene pangenome](0.05_GitHub_PGGB_modeling.md)
 - [Class the genes](0.06_GitHub_PGGB_gene_reclass.md)
 - [Infer variants](0.07_GitHub_PGGB_infer_variants.md)
+- [snpEff](0.08_GitHub_PGGB_snpEff.md)
