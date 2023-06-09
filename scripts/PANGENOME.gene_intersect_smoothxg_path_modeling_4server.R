@@ -461,7 +461,7 @@ p <- ggplot() +
   scale_x_continuous(breaks = seq(9)) +
   scale_y_continuous(breaks = seq(0, 125000, 20000)) +
   labs(y = "Number of genes", x = "Number of genomes") +
-  scale_color_manual(values=c("#F01579", "#90E711", "#F4D213", "#A657F5"), name = "") +
+  scale_color_manual(values=c("#E7298A", "#66A61E", "#E6AB02", "#7570B3"), name = "") +
   guides(color = guide_legend(override.aes = list(alpha = 1)))
 
 p <- p + theme(plot.title = element_text(color="black", size=7, face="plain", margin=margin(t=1,r=0,b=1,l=0,"mm")),
