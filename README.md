@@ -18,7 +18,7 @@ This GitHub repository is associated with the following article: biorxiv doi.
 - [Infer variants from the graph](0.07_infer_variants.md)
 - [Annotate variants](0.08_snpEff.md)
 - [Variant genotyping](0.09_variant_genotyping.md)
-- [pan-GWAS](0.10_pan_GWAS.md)
+- [Pan-GWAS](0.10_pan_GWAS.md)
 
 ## References
 [References](0.01_References.md)
