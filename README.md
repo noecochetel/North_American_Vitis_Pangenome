@@ -17,9 +17,8 @@ This GitHub repository is associated with the following article: biorxiv doi.
 - [Class the genes](0.06_gene_pangenome.md)
 - [Infer variants](0.07_infer_variants.md)
 - [snpEff](0.08_snpEff.md)
-
-## TO ADD
-- gwas
+- [Variant genotyping](0.09_variant_genotyping.md)
+- [pan-GWAS](0.10_pan_GWAS.md)
 
 ## References
 [References](0.01_References.md)
