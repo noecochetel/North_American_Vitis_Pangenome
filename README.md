@@ -1,5 +1,5 @@
-# North American Vitis pangenome
-Tags: #pangenome #pggb #seqwish #smoothxg #wfmash
+# The North American Vitis super-pangenome
+Tags: #pangenome #pggb #wfmash #seqwish #smoothxg  #vg #gwas 
 
 ***
 
