@@ -14,7 +14,7 @@ This GitHub repository is associated with the following article: biorxiv doi.
 - [Construct the pangenome with seqwish](0.03_PGGB_seqwish.md)
 - [Polish the pangenome with smoothxg](0.04_PGGB_smoothxg.md)
 - [Model the gene pangenome](0.05_modeling.md)
-- [Class the genes](0.06_gene_pangenome.md)
+- [Graph-inferred gene pangenome](0.06_gene_pangenome.md)
 - [Infer variants](0.07_infer_variants.md)
 - [snpEff](0.08_snpEff.md)
 - [Variant genotyping](0.09_variant_genotyping.md)
