@@ -3,8 +3,10 @@ Tags: #pangenome #pggb #seqwish #smoothxg #wfmash
 
 ***
 
-## Purpose
+> [! info] Purpose
+> Construct and analyze the North American Vitis super-pangenome
 
+This GitHub repository is associated with the following article: biorxiv doi.
 
 ## Index
 

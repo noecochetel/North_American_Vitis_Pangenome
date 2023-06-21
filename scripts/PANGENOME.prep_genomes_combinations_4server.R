@@ -14,7 +14,7 @@ map(seq(length(genome_names_vec)), function(genome_nb){
   map(seq(ncol(comb_tb)), function(column_x){
     
     combx <- comb_tb %>% select(all_of(column_x)) %>% pull()
-    write_tsv(as_tibble(combx), here("path", paste0("genome_nb", genome_nb, ".", "comb", column_x, ".txt")), col_names = F)
+    write_tsv(as_tibble(combx), here("comb", paste0("genome_nb", genome_nb, ".", "comb", column_x, ".txt")), col_names = F)
     
   })
 })

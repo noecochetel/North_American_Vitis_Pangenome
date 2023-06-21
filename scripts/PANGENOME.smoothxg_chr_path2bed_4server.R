@@ -2,7 +2,7 @@ library(tidyverse)
 library(here)
 
 # prepare variable --------------------------------------------------------
-path_list_file <- list.files(path = here("path"), pattern = "chr.*.thru.all.on.all.wfmash_s10000p85n1.chr.*.seqwish_k49.smooth.join.path", full.names = T)
+path_list_file <- list.files(path = here("vg"), pattern = "chr.*.thru.all.on.all.wfmash_s10000p85n1.chr.*.seqwish_k49.smooth.join.path", full.names = T)
 path_list_name <- gsub("^.*/", "", path_list_file)
 path_list_name <- gsub(".thru.all.on.all.wfmash_s10000p85n1.chr.*.seqwish_k49.smooth.join.path", "", path_list_name)
 names(path_list_file) <- path_list_name
@@ -32,6 +32,6 @@ map(names(path_list), function(x){
   
   tbx3 <- tbx2[,c("seq_name", "start", "cumsum", "seg_name", "score", "strand")]
   
-  write_tsv(tbx3, here("bed", paste0(x, ".thru.all.on.all.wfmash_s10000p85n1.", chrx, ".seqwish_k49.smooth.join.bed")), col_names = F)
+  write_tsv(tbx3, here("vg", paste0(x, ".thru.all.on.all.wfmash_s10000p85n1.", chrx, ".seqwish_k49.smooth.join.bed")), col_names = F)
 
   })
