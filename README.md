@@ -1,4 +1,4 @@
-# The North American Vitis super-pangenome
+# The North American _Vitis_ super-pangenome
 Tags: #pangenome #pggb #wfmash #seqwish #smoothxg  #vg #gwas 
 
 ***
