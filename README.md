@@ -6,7 +6,7 @@ Tags: #pangenome #pggb #wfmash #seqwish #smoothxg  #vg #gwas
 > [! info] Purpose
 > Construct and analyze the North American Vitis super-pangenome
 
-This GitHub repository is associated with the following article: biorxiv doi.
+This GitHub repository is associated with the following article: [biorxiv doi](https://www.biorxiv.org/content/10.1101/2023.06.27.545624v1).
 
 ## Index
 
