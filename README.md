@@ -23,3 +23,5 @@ This GitHub repository is associated with the following article: [biorxiv doi](h
 ## References
 [References](0.01_References.md)
 
+## License
+MIT License
