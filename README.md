@@ -1,4 +1,5 @@
-# The North American _Vitis_ super-pangenome
+# A super-pangenome of the North American wild grape species
+
 Tags: #pangenome #pggb #wfmash #seqwish #smoothxg  #vg #gwas 
 
 ***
