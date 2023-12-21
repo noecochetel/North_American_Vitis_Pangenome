@@ -7,7 +7,9 @@ Tags: #pangenome #pggb #wfmash #seqwish #smoothxg  #vg #gwas
 > [! info] Purpose
 > Construct and analyze the North American Vitis super-pangenome
 
-This GitHub repository is associated with the following article: [biorxiv doi](https://www.biorxiv.org/content/10.1101/2023.06.27.545624v1).
+This GitHub repository is associated with the following article:
+Cochetel N, Minio A, Guarracino A, Garcia JF, Figueroa-Balderas R, Massonnet M, Kasuga T, Londo JP, Garrison E, Gaut BS, Cantu D (2023) A super-pangenome of the North American wild grape species. Genome Biology 24: 290
+[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03133-2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03133-2).
 
 ## Index
 
